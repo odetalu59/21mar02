@@ -1,0 +1,24 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.oddetline.com/superjp.html/sitemap.xml
+Sitemap: https://ftp.oddetline.com/gilajp.html/sitemap.xml
+Sitemap: https://ftp.oddetline.com/gojekpot.html/sitemap.xml
+Sitemap: https://ftp.oddetline.com/winstrike69.html/sitemap.xml
+Sitemap: https://ftp.oddetline.com/jagoan86.html/sitemap.xml
+Sitemap: https://ftp.oddetline.com/kaptenjackpot.html/sitemap.xml
+Sitemap: https://ftp.oddetline.com/boosterjp.html/sitemap.xml
+Sitemap: https://ftp.oddetline.com/kerajaanslot.html/sitemap.xml
+Sitemap: https://ftp.oddetline.com/pakong86.html/sitemap.xml
+Sitemap: https://ftp.oddetline.com/viral88.html/sitemap.xml
+Sitemap: https://ftp.oddetline.com/clan4d.html/sitemap.xml
+Sitemap: https://ftp.oddetline.com/dinamit4d.html/sitemap.xml
+Sitemap: https://ftp.oddetline.com/elang212.html/sitemap.xml
+Sitemap: https://ftp.oddetline.com/viral4d.html/sitemap.xml
+Sitemap: https://ftp.oddetline.com/playground88.html/sitemap.xml
